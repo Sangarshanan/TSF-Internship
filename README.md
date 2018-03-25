@@ -4,4 +4,6 @@ Internship Files for The sparks foundation
 
 * The github.io link is a simple facebook login facilitation for the users making a donation  :)
 
+* Also contains relevant word documents peratining to the content development
+
 Website hosted on heroku: https://the-sparks-foundation.herokuapp.com/index.html#
