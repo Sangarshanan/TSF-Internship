@@ -1,4 +1,4 @@
-# Internship Files for rotational internship at The sparks foundation
+## Internship Files for rotational internship at The sparks foundation
 
 * The Website file points to a single page website model for an NGO
 
