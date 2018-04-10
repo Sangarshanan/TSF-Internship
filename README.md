@@ -4,7 +4,7 @@
 
 * The github.io link is a simple facebook login facilitation for the users making a donation 
 
-* Link: https://sangarshanan.github.io/internship/
+* Link: https://sangarshanan.github.io/TSF-Internship/
 
 * Also contains relevant word documents peratining to the content development
 
