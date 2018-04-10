@@ -1,4 +1,4 @@
-Internship Files for The sparks foundation
+# Internship Files for rotational internship at The sparks foundation
 
 * The Website file points to a single page website model for an NGO
 
@@ -7,3 +7,5 @@ Internship Files for The sparks foundation
 * Also contains relevant word documents peratining to the content development
 
 Website hosted on heroku: https://the-sparks-foundation.herokuapp.com/index.html#
+
+Certificate has been attached for reference
